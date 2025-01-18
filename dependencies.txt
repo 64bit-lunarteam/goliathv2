@@ -1,0 +1,6 @@
+colorama
+pyfiglet
+requests
+scapy
+ipaddress
+psutil
