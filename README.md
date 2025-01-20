@@ -1,5 +1,7 @@
 # - Goliath V2 -
-Goliath V2 is the ultimate networking tool for all of your hacking needs. This is a bit of an older tool I made when I was slightly less experienced in python, hence why the UI isn't great and it says 'Made by Venom and Neuroscopy' instead of just 'Made by Lunar Team.' Despite it's age, I believe it's still a great tool many people can benefit from.
+Goliath V2 is the ultimate networking tool for all of your hacking needs. This is a bit of an older tool I made when I was slightly less experienced in python, hence why the UI isn't great and it says 'Made by Venom and Neuroscopy*' instead of just 'Made by Lunar Team.' Despite it's age, I believe it's still a great tool many people can benefit from.
+
+Neuroscopy* - Neuroscopy is our member, soupcan7's old name. Neuroscopy and soupcan7 are the same people, and in a future update I will change that... whoopsie
 
 # - Preview -
 ![preview](github-preview.png)
