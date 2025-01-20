@@ -26,6 +26,6 @@ Neuroscopy* - Neuroscopy is our member, soupcan7's old name. Neuroscopy and soup
 This project is licensed under the GNU General Public License v3.0
 ```js
 Goliath V2 is made for educational purposes only and is not created for malicious purposes.
-Any damage done with this software is not at the fault of Venom, aka venom-kitty on github or at the fault of Lunar Team.
+Any damage done with this software is not at the fault of Venom or at the fault of Lunar Team.
 It is only at fault of the user.
 ```
