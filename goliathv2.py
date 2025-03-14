@@ -125,7 +125,7 @@ def getbanner():
     print(Fore.YELLOW + "        ║   ██║   ██║██║   ██║██║     ██║██╔══██║   ██║   ██╔══██║    ╚██╗ ██╔╝██╔═══╝   ║")
     print(Fore.YELLOW + "        ║   ╚██████╔╝╚██████╔╝███████╗██║██║  ██║   ██║   ██║  ██║     ╚████╔╝ ███████╗  ║")
     print(Fore.YELLOW + "        ║    ╚═════╝  ╚═════╝ ╚══════╝╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝      ╚═══╝  ╚══════╝  ║")
-    print(Fore.YELLOW + "        ║   v0.2.0 - Developed by venom and neuroscopy                                   ║")
+    print(Fore.YELLOW + "        ║   v0.2.0 - Developed by venom and certifiedfish101                             ║")
     print(Fore.YELLOW + "        ╚════════════════════════════════════════════════════════════════════════════════╝")
     print(Fore.LIGHTYELLOW_EX + "         Type 'help' for a list of commands!")
     print()
